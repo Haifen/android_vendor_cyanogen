@@ -34,6 +34,7 @@ add_lunch_combo cyanogen_heroc-eng
 add_lunch_combo cyanogen_inc-eng
 add_lunch_combo cyanogen_iyokan-eng
 add_lunch_combo cyanogen_jordan-eng
+add_lunch_combo cyanogen_kobe-eng
 add_lunch_combo cyanogen_legend-eng
 add_lunch_combo cyanogen_leo-eng
 add_lunch_combo cyanogen_liberty-eng
